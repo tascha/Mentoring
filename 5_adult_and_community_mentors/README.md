@@ -2,11 +2,9 @@
 
 This section discusses how to develop and support adult mentors from your community.
 
-**LEARNING OBJECTIVES FOR THIS SECTION**
-
-**After completing Section 5: Adults and community mentors, you will be able to…**
-
-*   Develop and support adult mentors from your community
+<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES FOR THIS SECTION</h5></span>
+After completing Section 5: Adults and community mentors, you will be able to...
+<ul><li>Develop and support adult mentors from your community</li></ul></div>
 
 Libraries have a longstanding tradition of providing youth with access to adult and community mentors. These experiences can help youth with employment efforts, technology training, and career development (Yohalem &amp; Pittman, 2003). The first step is often identifying a potential community partner. As we mentioned in our section on Designing Mentorship-Focused Programming, youth are often the ones to first approach adults as potential mentors and helping to facilitate that relationship may be a first step.
 

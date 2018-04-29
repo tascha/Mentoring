@@ -2,17 +2,9 @@
 
 In this introduction, you will learn what mentoring is and how it can support connected learning in the library.
 
-**LEARNING OBJECTIVES FOR THIS MODULE**
-
-**After completing the Mentoring module, you will be able to…**
-
-*   Describe the core elements of mentoring
-*   Identify different types of mentoring relationships
-    *   Youth librarians as mentors
-    *   Youth as peer mentors
-    *   Adults or community members as mentors
-*   Create your own custom mentoring roadmap
-*   Address common mentoring challenges
+<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES FOR THIS MODULE</h5></span>
+After completing the Mentoring module, you will be able to…
+<ul><li>Describe the core elements of mentoring</li><li>Identify different types of mentoring relationships<ul><li>Youth librarians as mentors</li><li>Youth as peer mentors</li><li>Adults or community members as mentors</li></ul><li>Create your own custom mentoring roadmap<li>Address common mentoring challenges</li></ul></div>
 
 Local artists and media professionals sharing their expertise with young people in learning labs and workshops. Older teens guiding tweens with science experiments. Youth librarians helping teens use digital media to meet their future goals.
 

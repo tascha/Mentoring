@@ -2,11 +2,9 @@
 
 This section discusses how to develop and support youth mentors at your library.
 
-**LEARNING OBJECTIVES FOR THIS SECTION**
-
-**After completing Section 4: Youth as Mentors, you will be able to…**
-
-*   Develop and support youth mentors at your library
+<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES FOR THIS SECTION</h5></span>
+After completing Section 4: Youth as Mentors, you will be able to...
+<ul><li>Develop and support youth mentors at your library</li></ul></div>
 
 Youth mentors can offer mutual benefits to both the library and to teens, including; acquiring leadership skills and learning from the shared interactions with mentees. Within libraries, teens have helped each other prepare for college entrance exams, complete school projects, and experiment with new technologies (Larson, et al., 2013). Some libraries with limited resources may have to accommodate a wide range of ages in their youth programming, making it difficult to provide a deep learning experience for the older or savvier participants. Teen volunteers who serve as mentors can help address this challenge by providing additional support.
 

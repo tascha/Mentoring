@@ -9,8 +9,5 @@ A process for the closure of longer term mentoring relationships may be evaluate
 *   Research suggests providing closure or “ending rituals” or activities to reflect on the end of the relationship can provide youth with growth and learning opportunities (DuBois &amp; Karcher, 2013).
 *   Closure plan can include a way for youth and mentors to say goodbye and ask youth reflective questions (e.g., What did you like best about the experience?)
 
-**ADDITIONAL RESOURCES**
-
-*   [**Resource Guide: Web Sites about the Juvenile Justice System and Troubled Youth**](http://www.ala.org/programming/greatstories/gscresourcesweb)
-*   [**Partnering with Homeless Serving Organizations**](http://www.alsc.ala.org/blog/2016/07/connecting-at-risk-youth/)
-*   [TeenMentalHealth.Org](http://teenmentalhealth.org/)
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span>
+<ul><li><a href="http://www.ala.org/programming/greatstories/gscresourcesweb">Resource Guide: Web Sites about the Juvenile Justice System and Troubled Youth</a></li><li><a href="http://www.alsc.ala.org/blog/2016/07/connecting-at-risk-youth/">Partnering with Homeless Serving Organizations</a></li><li><a href="http://teenmentalhealth.org/">TeenMentalHealth.Org</a></li></div>

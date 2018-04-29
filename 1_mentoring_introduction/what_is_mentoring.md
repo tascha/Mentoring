@@ -18,7 +18,7 @@ To prepare them for the workforce, other libraries have offered mentorship to te
 
 ### Friends and role models {#friends-and-role-models}
 
-Mentors and mentees interact socially, engage in fun activities, and provide each other with life lessons. In the learning labs at the [YOUmedia Chicago (Links to an external site.)Links to an external site.](https://www.chipublib.org/programs-and-partnerships/youmedia/), mentors foster a camaraderie with young people, creating a safe space for youth to trust them while working together on multimedia projects (Larson et al., 2013). While the library provides creative equipment like video cameras, art supplies, and design software, the mentors model how to use them (Hoffman, et al., 2016; Larson et al., 2013).
+Mentors and mentees interact socially, engage in fun activities, and provide each other with life lessons. In the learning labs at the [YOUmedia Chicago](https://www.chipublib.org/programs-and-partnerships/youmedia/), mentors foster a camaraderie with young people, creating a safe space for youth to trust them while working together on multimedia projects (Larson et al., 2013). While the library provides creative equipment like video cameras, art supplies, and design software, the mentors model how to use them (Hoffman, et al., 2016; Larson et al., 2013).
 
 ### Interest-driven and production-centered experiences {#interest-driven-and-production-centered-experiences}
 
